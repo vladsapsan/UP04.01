@@ -1,6 +1,6 @@
-package com.example.edpr22022.service;
+package com.example.PR2.service;
 
-import com.example.edpr22022.repo.UserRepository;
+import com.example.PR2.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

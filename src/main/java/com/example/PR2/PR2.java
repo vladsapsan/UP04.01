@@ -1,13 +1,13 @@
-package com.example.edpr22022;
+package com.example.PR2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EdPr22022Application {
+public class PR2 {
 
     public static void main(String[] args) {
-        SpringApplication.run(EdPr22022Application.class, args);
+        SpringApplication.run(PR2.class, args);
     }
 
 }

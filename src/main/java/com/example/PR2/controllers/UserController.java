@@ -1,8 +1,8 @@
-package com.example.edpr22022.controllers;
+package com.example.PR2.controllers;
 
-import com.example.edpr22022.Models.Role;
-import com.example.edpr22022.Models.User;
-import com.example.edpr22022.repo.UserRepository;
+import com.example.PR2.Models.Role;
+import com.example.PR2.Models.User;
+import com.example.PR2.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;

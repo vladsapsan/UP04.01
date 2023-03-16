@@ -1,7 +1,6 @@
-package com.example.edpr22022.repo;
+package com.example.PR2.repo;
 
-import com.example.edpr22022.Models.Customer;
-import com.example.edpr22022.Models.Employee;
+import com.example.PR2.Models.Customer;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

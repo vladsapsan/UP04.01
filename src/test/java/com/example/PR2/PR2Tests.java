@@ -1,10 +1,10 @@
-package com.example.edpr22022;
+package com.example.PR2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EdPr22022ApplicationTests {
+class PR2Tests {
 
     @Test
     void contextLoads() {

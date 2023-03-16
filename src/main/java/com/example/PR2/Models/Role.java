@@ -1,4 +1,4 @@
-package com.example.edpr22022.Models;
+package com.example.PR2.Models;
 
 import org.springframework.security.core.GrantedAuthority;
 
